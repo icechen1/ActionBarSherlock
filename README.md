@@ -1,3 +1,6 @@
+# What's this?
+Patched version of ActionBarSherlock that works with modern Android support libraries. In use until legacy activities are phased out with more modern implementations in my apps.
+
 # DEPRECATED
 
 ActionBarSherlock is deprecated. No more development will be taking place. For an up-to-date action bar backport
